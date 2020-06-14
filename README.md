@@ -8,6 +8,8 @@ Sample website with plenty of files for demos
 
 ##  Introduction
 
-This is example to show Different parts of the Git Repository and various commands using we project
+This is example to show Different parts of the Git Repository and various commands using web project, This is simple web project for understanding 
 
 ##  Deployment
+
+This is example to show difftool 
