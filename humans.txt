@@ -9,6 +9,7 @@
 # THANKS
 
     <name>
+	THANKS to my team mates
 
 # TECHNOLOGY COLOPHON
 
