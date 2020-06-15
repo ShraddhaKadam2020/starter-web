@@ -18,3 +18,7 @@ This is example to show difftool
 ## Team Member
 
 Shraddha Kadam - Developer 
+
+### Copyeight
+
+All rights reserved
